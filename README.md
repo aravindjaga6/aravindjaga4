@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @aravindjaga18
-- 👀 I’m interested in ... Game Developer
-- 🌱 I’m currently learning ... Python, C#
-- 💞️ I’m looking to collaborate on ...who teaching and practicing c# and python
+- 👋 Hi, I’m Aravind
 - 📫 How to reach me ...aravindjaga04@gmail.com
 
 <!---
